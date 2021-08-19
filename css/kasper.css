@@ -895,6 +895,7 @@ text-align: center;
     display: block;
     border: 1px solid #ccc;
     margin-bottom: 30px;
+    resize:none;
     width: 100%;
 }
 .contact .content form .main-input:focus {
