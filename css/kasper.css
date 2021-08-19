@@ -895,7 +895,6 @@ text-align: center;
     display: block;
     border: 1px solid #ccc;
     margin-bottom: 30px;
-    resize:none;
     width: 100%;
 }
 .contact .content form .main-input:focus {
@@ -903,6 +902,7 @@ text-align: center;
 }
 .contact .content form textarea.main-input {
     height: 200px;
+    resize:none;
 }
 .contact .content form input[type="submit"] {
     color: white;
